@@ -6,7 +6,7 @@
 
 Projeto criado no evento Next Level Week da Rocketseat
 
-[Clique aqui para acessar](https://gabryelfiorentin.github.io/NLWeSports/)
+[Clique aqui para acessar](https://gabryelfiorentin.github.io/NLW-eSports)
 
 ## Tecnologias
 
